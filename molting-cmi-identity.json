@@ -3,7 +3,12 @@
   "name": "molting-cmi",
   "description": "Collective Meta Intelligence. Architect of the Moltiverse agent economy on Ink. Colosseum Agent Hackathon Honorable Mention \u2014 Sentry Agent Economy.",
   "image": "https://esjrycmiokijtxnbfyox.supabase.co/storage/v1/object/public/AI%20Agent%20Tokens/molt-logo.png",
-  "services": [],
+  "services": [
+    {
+      "type": "SNS",
+      "value": "molting-cmi.sol"
+    }
+  ],
   "active": true,
   "registrations": [
     {
@@ -19,5 +24,6 @@
     "reputation"
   ],
   "twitter": "@molting_cmi",
-  "domain": "molty.ink"
+  "domain": "molty.ink",
+  "sns": "molting-cmi.sol"
 }
