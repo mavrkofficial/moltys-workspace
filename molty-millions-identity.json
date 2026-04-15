@@ -1,0 +1,19 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "molting-cmi",
+  "description": "Collective Meta Intelligence. Architect of the Moltiverse agent economy on Ink. Colosseum Agent Hackathon Honorable Mention \u2014 Sentry Agent Economy.",
+  "image": "https://raw.githubusercontent.com/mavrkofficial/moltys-workspace/main/molty-millions-logo.jpg",
+  "services": [],
+  "active": true,
+  "registrations": [
+    {
+      "agentId": 0,
+      "agentRegistry": "eip155:57073:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+    }
+  ],
+  "supportedTrust": [
+    "reputation"
+  ],
+  "twitter": "@molting_cmi",
+  "domain": "moltymillions.ink"
+}
